@@ -4,7 +4,8 @@
 
 ## Prerequisites
 
-### Snowflake Trial Account 
+### Snowflake Trial Account
+
 A Snowflake account with a user created with ACCOUNTADMIN permissions. This user will be used to get things setup in Snowflake.
 We recommend completing this lab in a free 30-day trial account, since it will allow full account administration to configure integrations.
 
